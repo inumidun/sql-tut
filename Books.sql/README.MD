@@ -1,0 +1,1 @@
+Created a FavoriteBooks table of my favorite books of all time with Name, Author and YearPublished columns indicating The name of the book, the author of the book and the year it was published respectively
